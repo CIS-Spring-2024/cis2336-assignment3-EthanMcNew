@@ -1,0 +1,42 @@
+Description:
+
+Now you have a menu page for your cafeteria. For this assignment, please add an interactive
+order form for food items, which includes validation checks for each item's quantity. You can add the
+order form on your menu page or create a separate order page. Keep it real and make it great!
+
+RUBRICS FOR ASSIGNMENT 3
+
+TOTAL POINTS: 0
+
+1. (DONE) HTML Structure and CSS styling (10 points):
+• Effective use of semantic HTML5 for structuring the order form.
+• Responsive CSS designs for a cohesive look and feel across the menu page and order
+form.
+
+2. Order Form Development and Validation (60 points):
+• Creation of an order form that allows users to select items, specify quantities, and submit
+orders.
+• Implementation of JavaScript-based validation checks to ensure all quantities are positive
+numbers and within a specified range (e.g., 1-10).
+• Feedback to the user on validation failures, clearly indicating which items need
+correction.
+
+3. (DONE) Overall Creativity and Originality (20 points):
+• Demonstrates creativity in presenting JavaScript concepts through engaging visuals,
+examples, or exercises.
+• Incorporates unique interactive elements or features not commonly seen in similar
+projects.
+
+4. (DONE) File Organization and Submission (10 points):
+• Proper organization of files including HTML, CSS, JavaScript, and any additional
+resources.
+• Submission of the project to a designated platform or repository, ensuring accessibility
+for assessment.
+• Provides comprehensive documentation or README file detailing project setup, usage
+instructions, and any dependencies.
+
+Total Points: 100
+
+SUBMISSION:
+
+Before the deadline, it must be turned in on Canvas and in the GitHub Assignment 3 folder.
