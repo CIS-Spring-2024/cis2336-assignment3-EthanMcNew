@@ -6,14 +6,14 @@ order form on your menu page or create a separate order page. Keep it real and m
 
 RUBRICS FOR ASSIGNMENT 3
 
-TOTAL POINTS: 0
+TOTAL POINTS: 100
 
 1. (DONE) HTML Structure and CSS styling (10 points):
 • Effective use of semantic HTML5 for structuring the order form.
 • Responsive CSS designs for a cohesive look and feel across the menu page and order
 form.
 
-2. Order Form Development and Validation (60 points):
+2. (DONE) Order Form Development and Validation (60 points):
 • Creation of an order form that allows users to select items, specify quantities, and submit
 orders.
 • Implementation of JavaScript-based validation checks to ensure all quantities are positive
